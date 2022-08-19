@@ -43,7 +43,6 @@ class Entity
   react_to_weapon: (weapon) =>
     return pewpew.entity_react_to_weapon @entity_id, weapon
 
-
 class oop.Ship extends Entity
   new: (pos, player_int) =>
     super!
