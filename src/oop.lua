@@ -1,3 +1,4 @@
+-- Compiled version of oop.moon
 pewpew.print("Powered by Object Oriented PewPew, v0.1")
 oop = { }
 oop.set_size = function(size)
