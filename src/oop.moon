@@ -190,5 +190,3 @@ class oop.CustomizableEntity extends Entity
     pewpew.customizable_entity_start_spawning @entity_id, duration
   start_exploding: (duration) =>
     pewpew.customizable_entity_start_exploding @entity_id, duration
-
-
