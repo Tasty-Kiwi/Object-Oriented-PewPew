@@ -1,2 +1,2 @@
-# Object-Oriented-PewPew
+# Object Oriented PewPew
 OOP support in PPL
